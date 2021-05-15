@@ -444,6 +444,33 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="diff-lcs (vbundled(1.4.4)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/autotest" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/autotest" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/docs" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/spec" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/diff-lcs-1.4.4/autotest" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="erubi (vbundled(1.10.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
@@ -466,6 +493,32 @@
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/execjs-2.7.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="factory_bot (vbundled(4.11.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/factory_bot-4.11.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/factory_bot-4.11.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="factory_bot_rails (vbundled(4.11.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/factory_bot_rails-4.11.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/factory_bot_rails-4.11.1/lib" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -1155,6 +1208,76 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/regexp_parser-2.1.1/spec" />
         </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-core (vbundled(3.10.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-core-3.10.1/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-core-3.10.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-core-3.10.1/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-core-3.10.1/lib" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-core-3.10.1/exe" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-expectations (vbundled(3.10.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-expectations-3.10.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-expectations-3.10.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-mocks (vbundled(3.10.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-mocks-3.10.2/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-mocks-3.10.2/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-rails (vbundled(3.9.1)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-rails-3.9.1/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-rails-3.9.1/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rspec-support (vbundled(3.10.2)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="4" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-support-3.10.2/lib" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.7.0/gems/rspec-support-3.10.2/lib" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
